@@ -1,0 +1,2 @@
+Para poder usar las bases de datos en python, es necesario de instalar la dependencia de mysql conector:
+pip install mysql-connector-python

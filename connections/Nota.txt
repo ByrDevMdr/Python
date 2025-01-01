@@ -1,0 +1,3 @@
+Para conectar Python con chatgpt debemos primero obtener la API de openai dentro de su página web, donde podemos registrarnos, además de instalar la librería openai con el comando:
+pip install openai==0.28.0
+        print("No tiene una letra "/a"/)
